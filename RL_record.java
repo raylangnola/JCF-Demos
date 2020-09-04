@@ -3,7 +3,7 @@ public class RL_record {
     private String lname;
     
     public RL_record() {
-        fname = "Evan";
-        lname = "Bell";
+        fname = "Rickey";
+        lname = "Lang";
     }
 }
